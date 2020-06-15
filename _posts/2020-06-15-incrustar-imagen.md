@@ -1,5 +1,5 @@
 ---
-title: "Post: Image (Standard)"
+title: "Incrustar imagen (Standard)"
 categories:
   - Post Formats
 tags:

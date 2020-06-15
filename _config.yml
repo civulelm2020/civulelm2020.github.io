@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Emanuel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://civulelm2020.files.wordpress.com/2020/06/emanuellealm002.jpg?w=1024"
   bio              : "I am an **amazing** person."
   location         : "México"
   email            :

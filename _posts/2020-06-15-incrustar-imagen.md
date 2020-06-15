@@ -14,13 +14,13 @@ Standard image with no width modifier classes applied.
 **HTML:**
 
 ```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/docs/assets/images/filename.jpg" alt="">{% endraw %}
 ```
 
 **or Kramdown:**
 
 ```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %}
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/docs/assets/images/filename.jpg){% endraw %}
 ```
 
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-9.jpg)

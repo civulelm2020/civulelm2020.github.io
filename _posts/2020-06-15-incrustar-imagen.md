@@ -30,7 +30,7 @@ Image that fills page content container by adding the `.full` class with:
 **HTML:**
 
 ```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="" class="full">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/docs/assets/images/unsplash-image-9.jpg" alt="" class="full">{% endraw %}
 ```
 
 **or Kramdown:**

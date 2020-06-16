@@ -45,4 +45,4 @@ Image that fills page content container by adding the `.full` class with:
 ![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-10.jpg)
 {: .full}
 
-![Texto alternativo](/docs/assets/images/unsplash-image-9.jpg)
+![Texto alternativo](/master/docs/assets/images/unsplash-image-9.jpg)

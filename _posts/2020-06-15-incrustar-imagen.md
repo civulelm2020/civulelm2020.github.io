@@ -46,3 +46,7 @@ Image that fills page content container by adding the `.full` class with:
 {: .full}
 
 ![Texto alternativo](https://raw.githubusercontent.com/civulelm2020/civulelm2020.github.io/master/docs/assets/images/unsplash-image-9.jpg)
+
+![Texto alternativo](https://civulelm2020.github.io/master/docs/assets/images/unsplash-image-9.jpg)
+
+![Texto alternativo](https://civulelm2020.github.io/docs/assets/images/unsplash-image-8.jpg)
